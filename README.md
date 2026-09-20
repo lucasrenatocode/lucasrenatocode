@@ -50,8 +50,8 @@ improving my code, UI and development practices.
 
 ## 🚀 Featured Projects
 
-### 💼 Project Name
-> Short description of what the project does.
+### 💼 Dolce Femme
+> Landing page responsiva para uma marca de moda feminina, desenvolvida com React, TypeScript e Tailwind CSS.
 
 **Tech:** React • TypeScript • Tailwind CSS
 
