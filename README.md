@@ -1,6 +1,6 @@
 # Hi 👋, I'm Lucas Renato
 
-🚀 **Senior Software Engineer | TypeScript & React.js Specialist**  
+🚀 **Junior Software Engineer | TypeScript & React.js Specialist**  
 <img src="https://flagcdn.com/w20/br.png" width="15"> Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
