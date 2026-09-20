@@ -13,10 +13,10 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/lucasrenatolu5-spec">
+  <a href="https://github.com/lucasrenatocode">
     <img src="https://img.shields.io/badge/GitHub-LucasRenato-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.instagram.com/sillvacode/">
+  <a href="https://www.instagram.com/sillvadev/">
     <img src="https://img.shields.io/badge/Instagram-@Sillvacode-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
