@@ -1,36 +1,26 @@
 # Hi 👋, I'm Lucas Renato
 
-🚀 **Junior Software Engineer | TypeScript & React.js Specialist**  
-<img src="https://flagcdn.com/w20/br.png" width="15"> Brazil
+🚀 **Junior Front-End Developer | React & TypeScript**
+🇧🇷 Brazil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+I build modern, responsive and well-structured web applications.
 
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+I'm focused on improving my skills in **React, TypeScript, JavaScript**
+and modern Front-End development, while building real-world projects.
 
----
-
-## 🌐 Where to find me
-
-<p align="left">
-  <a href="https://github.com/lucasrenatocode">
-    <img src="https://img.shields.io/badge/GitHub-LucasRenato-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.instagram.com/sillvadev/">
-    <img src="https://img.shields.io/badge/Instagram-@Sillvacode-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
+I enjoy turning ideas into functional interfaces and continuously
+improving my code, UI and development practices.
 ---
 
 ## 🧠 What I do
 
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   📊 Dashboards & analytics
+- 🎨 Modern & responsive interfaces
+- ⚛️ React applications
+- 🟦 TypeScript development
+- 📱 Responsive web design
+- 🧩 Reusable components
+- 🚀 Landing pages & business websites
+- 🔧 Continuous learning & improvement
 
 ---
 
