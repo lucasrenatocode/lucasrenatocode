@@ -55,7 +55,7 @@ improving my code, UI and development practices.
 
 **Tech:** React • TypeScript • Tailwind CSS
 
-[View Project](https://dolcefemme.vercel.app/) • [Source Code](https://github.com/lucasrenatolu5-spec/projeto-dajuModas)
+[View Project](https://dolcefemme.vercel.app/) • [Source Code](https://github.com/lucasrenatocode/projeto-DolceFemme)
 
 
 ---
