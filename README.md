@@ -30,7 +30,6 @@ I also create content and share knowledge on **software development, SaaS, and t
 -   🧩 Clean architecture & system design
 -   🔐 Secure APIs & authentication
 -   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
 -   📊 Dashboards & analytics
 
 ---
